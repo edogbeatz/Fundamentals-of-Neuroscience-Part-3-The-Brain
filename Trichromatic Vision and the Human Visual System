@@ -1,0 +1,76 @@
+# Trichromatic Vision and the Human Visual System
+
+**Author:** Edgar Mkrtchyan  
+**Date:** April 10, 2025  
+**Based on lectures by Dr. David Cox, Harvard University**
+
+---
+
+## Abstract
+
+Human color vision is enabled by three distinct types of cone photoreceptors in the retina, which are tuned to different wavelengths of light. This trichromatic system allows for the perception of a wide spectrum of colors through overlapping sensitivity curves. Additionally, variations in cone types among individuals give rise to conditions such as dichromacy, tetrachromacy, and color blindness. This paper reviews the mechanisms of phototransduction, the function of cone cells, and the concept of color metamers, providing a foundational understanding of how humans perceive color.
+
+---
+
+## Introduction
+
+The human retina is equipped with two primary types of photoreceptors: rods and cones. While rods are specialized for low-light (scotopic) conditions, cones function in bright light (photopic vision) and are responsible for color perception. This paper focuses on cones and their role in trichromatic vision.
+
+---
+
+## Cone Photoreceptors and Light Sensitivity
+
+Cone cells operate best in daylight conditions and are categorized based on their spectral sensitivity:
+
+- **S cones (short-wavelength):** Peak at 420–440 nm (blue)
+- **M cones (medium-wavelength):** Peak at 535–550 nm (green)
+- **L cones (long-wavelength):** Peak at 565–580 nm (red)
+
+In contrast, rod photoreceptors have peak sensitivity near 498 nm and contribute to vision in dim lighting, but not to color perception.
+
+---
+
+## Phototransduction Mechanism
+
+Each cone type contains a G-protein-coupled receptor (GPCR) protein known as **photopsin**, which is sensitive to light due to its bound chromophore, **11-cis-retinal**. Upon absorbing a photon, 11-cis-retinal is converted to **all-trans-retinal**, triggering a signal transduction cascade. Minor differences in amino acid sequences among photopsins account for their differing wavelength sensitivities.
+
+---
+
+## Color Perception and Metamers
+
+Color vision arises from the **relative activation** of the three cone types. Although only three cones exist, humans can perceive a broad range of colors due to the **overlap** in their spectral sensitivity curves. This allows the visual system to infer specific wavelengths based on the ratio of cone activation.
+
+Some distinct spectral compositions of light can stimulate the cones in identical ways, producing the same perceived color. These are known as **metamers**. Digital screens exploit this phenomenon by using combinations of red, green, and blue pixels to mimic real-world colors, including those not physically present on the screen.
+
+---
+
+## Variations in Color Vision
+
+Most humans are trichromats, but some individuals display other phenotypes:
+
+- **Dichromats**: Possess only two functioning cone types, often due to genetic mutations (e.g., deuteranopia).
+- **Tetrachromats**: Possess four cone types, typically observed in some women due to X chromosome variation.
+- **Colorblindness**: Results from missing or altered photopsins, leading to inability to distinguish certain colors. Common forms include red-green color blindness.
+
+---
+
+## Light Conditions and Cone Activity
+
+The contribution of rods and cones to vision is context-dependent:
+
+- **Scotopic vision** (dim light): Dominated by rods; cones are inactive; color vision is minimal.
+- **Photopic vision** (bright light): Cones dominate; rods are saturated; full color vision is achieved.
+
+---
+
+## Conclusion
+
+Trichromatic vision is a product of evolutionary adaptation, allowing humans to interpret a wide range of environmental stimuli using only three types of cones. Through overlapping sensitivity and the brain’s interpretation of cone outputs, a rich and nuanced perception of color emerges. Understanding the principles of phototransduction and color processing has profound implications for neuroscience, vision science, and display technology.
+
+---
+
+## References
+
+1. Cox, D. *Lecture on Phototransduction and Cone Cells*. Harvard University, MIT Courseware.
+2. Purves, D., et al. *Neuroscience*, 6th Edition. Oxford University Press.
+3. Gegenfurtner, K. R., & Kiper, D. C. (2003). *Color vision*. Annu. Rev. Neurosci.
