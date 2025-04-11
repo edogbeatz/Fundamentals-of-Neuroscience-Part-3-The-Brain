@@ -1,0 +1,49 @@
+# Functional Organization and Signal Transduction in the Human Retina
+
+**Author**: Edgar Mkrtchyan  
+**Based on lectures by Dr. David Cox, Harvard University**  
+**Date**: April 2025
+
+---
+
+## Abstract
+
+The human retina is a complex and highly evolved sensory organ capable of capturing, processing, and transmitting visual information. This paper explores the anatomical and functional organization of the retina, emphasizing its role in early visual processing, the distinction between rods and cones, and the phototransduction cascade. Amplification mechanisms involving second messengers enable remarkable sensitivity, allowing the detection of single photons.
+
+---
+
+## 1. Introduction
+
+The human visual system begins with the eye, often analogized to a camera for its ability to focus and record light. Light entering the eye is refracted by the cornea and lens and projected onto the retina. This multilayered neural tissue performs complex preprocessing before relaying information to the brain via the optic nerve.
+
+---
+
+## 2. Anatomical and Functional Structure of the Retina
+
+The retina is organized into three major functional layers:
+
+1. **Photoreception** – carried out by photoreceptors (rods and cones)  
+2. **Internal Transmission** – mediated by bipolar, horizontal, and amacrine interneurons  
+3. **Output** – transmitted by retinal ganglion cells through the optic nerve  
+
+> Despite having over 100 million photoreceptors, the human retina has only about 1 million output axons, highlighting the importance of in-retina signal integration.
+
+---
+
+## 3. Photoreceptors: Rods and Cones
+
+Photoreceptors are the biological equivalent of camera pixels and fall into two categories:
+
+- **Rods**: Highly sensitive to low light, specialized for nighttime (scotopic) vision. They vastly outnumber cones (~20:1).  
+- **Cones**: Specialized for high light levels and color detection (photopic vision), functioning best during daylight.
+
+> Unlike digital sensors, the retina does not encode absolute luminance. Instead, it emphasizes contrast, enhancing its dynamic range and perceptual fidelity.
+
+---
+
+## 4. Phototransduction Mechanism
+
+Phototransduction is the process by which photoreceptors convert light into electrical signals. This involves:
+
+- Photon absorption by **rhodopsin** in rod outer segments  
+- A conformational change in **retinal** (
