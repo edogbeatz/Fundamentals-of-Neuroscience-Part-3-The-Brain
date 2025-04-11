@@ -1,0 +1,54 @@
+# Retinal Ganglion Cells and the Origins of Visual Encoding  
+**Author:** Edgar Mkrtchyan  
+**Based on lectures by Dr. David Cox, Harvard University**
+
+---
+
+## Abstract  
+Prior to a complete understanding of photoreceptor cell biology, neuroscientists discovered foundational insights into how the retina processes visual information. This paper highlights key developments in the physiological understanding of visual encoding, focusing on the structure and function of retinal ganglion cells, receptive fields, and center-surround organization.
+
+---
+
+## Introduction  
+The retina, a thin neural tissue at the back of the eye, is responsible for the initial processing of visual stimuli. Long before phototransduction was fully understood, pioneering researchers such as George Wald, Stephen Kuffler, John Dowling, David Hubel, and Torsten Wiesel began to unravel how light stimuli generate neural signals in the retina.
+
+---
+
+## Retinal Architecture and Cellular Layers  
+The retina is organized into three principal cellular layers connected by two synaptic layers:
+
+- **Outer Nuclear Layer**: Contains photoreceptors (rods and cones).
+- **Inner Nuclear Layer**: Contains interneurons (bipolar, horizontal, and amacrine cells).
+- **Ganglion Cell Layer**: Houses retinal ganglion cells (RGCs), the only retinal cells (with few amacrine exceptions) that fire action potentials.
+
+These action potentials travel via the optic nerve to the brain, serving as the retina’s sole output signal.
+
+---
+
+## Kuffler's Pioneering Experiments  
+In the 1950s, Stephen Kuffler made a breakthrough by recording action potentials from RGCs in anesthetized animals. Using a display screen and extracellular electrodes, Kuffler mapped out regions of visual space—**receptive fields**—that elicited responses in specific neurons.
+
+---
+
+## Receptive Fields and Center-Surround Organization  
+Kuffler identified that RGCs possess receptive fields with a **center-surround organization**:
+
+- **ON-center cells**: Activated by light in the center and inhibited by light in the surrounding area.
+- **OFF-center cells**: Inhibited by light in the center and activated by light in the surround.
+
+This arrangement emphasized contrast and edge detection.
+
+---
+
+## Advances in Understanding Circuitry  
+By the 1970s, John Dowling and Frank Werblin expanded on Kuffler’s work. They demonstrated that the responses of ganglion cells arise from complex interactions among bipolar, horizontal, and amacrine cells. Each photoreceptor and interneuron can contribute to both center and surround regions of multiple receptive fields via **lateral pathways**, primarily mediated by horizontal and amacrine cells.
+
+---
+
+## Functional Significance of Center-Surround Fields  
+Most RGCs are more responsive to localized spots of light rather than diffuse illumination. This property is attributed to their receptive field organization, which enhances **edge sensitivity** and **contrast detection**. These features are critical for interpreting borders and dynamic visual scenes.
+
+---
+
+## Conclusion  
+The foundation of our understanding of visual encoding began with the physiological analysis of retinal ganglion cells. Kuffler’s definition of receptive fields and the discovery of center-surround architecture marked a turning point in neuroscience. Today, these principles underpin much of our knowledge about early visual processing and inspire ongoing research into neural computation and artificial vision systems.
