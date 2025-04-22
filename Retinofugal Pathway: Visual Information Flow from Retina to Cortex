@@ -1,0 +1,58 @@
+# 🧠 Retinofugal Pathway: Visual Information Flow from Retina to Cortex
+
+**Author:** Edgar Mkrtchyan  
+**Affiliation:** Based on lectures by Dr. David Cox, Harvard University  
+**Date:** April 2025  
+
+---
+
+## **Abstract**
+Visual processing begins in the retina and follows a well-defined path through several brain structures before reaching the primary visual cortex. This paper outlines the anatomical and functional journey of the visual signal from the retina, through the retinofugal pathway, to the cortex.
+
+---
+
+## **1. Introduction**
+After light is transduced into neural signals by photoreceptors, visual information exits the eye via the **optic nerve**. The pathways these signals take are collectively known as the **retinofugal pathway**, meaning “fleeing the retina.”
+
+---
+
+## **2. Early Visual Projections**
+
+### **2.1 Retinotectal Projection**
+- A subset of retinal axons project to the **tectum** (also called the **superior colliculus** in mammals).
+- The tectum is a primitive structure responsible for reflexive orientation movements (e.g., eye/head turns toward sudden stimuli).
+- Found in both mammals and reptiles.
+
+### **2.2 Accessory Optic System**
+- Involved in **involuntary reflexes**, including the **optokinetic reflex**.
+- Functions similarly to image stabilization in cameras, maintaining visual clarity during motion.
+
+---
+
+## **3. The Primary Retinofugal Pathway**
+The major conscious visual processing path consists of five key structures:
+
+1. **Optic Nerve** – Carries retinal output.
+2. **Optic Chiasma** – Site of **decussation**, where **nasal hemiretinal fibers cross** to the opposite hemisphere.
+3. **Optic Tract** – Carries reorganized visual field information post-chiasma.
+4. **Lateral Geniculate Nucleus (LGN)** – A thalamic relay station that processes and organizes signals for the cortex.
+5. **Optic Radiations** – Axonal projections from LGN to the visual cortex.
+
+---
+
+## **4. Hemifield Organization and Crossings**
+- The **left visual field** (from both eyes) is processed in the **right visual cortex**, and vice versa.
+- This is due to **partial crossing** at the **optic chiasma**, not a full eye-to-brain hemisphere switch.
+- Each **hemiretina** sorts its output depending on the visual field it captures.
+
+---
+
+## **5. Visual Cortex**
+- Final destination: the **primary visual cortex (V1)** in the **occipital lobe**.
+- Conscious perception of vision arises here.
+- Upcoming studies will detail the functions and specializations of each node along this pathway.
+
+---
+
+## **Conclusion**
+The retinofugal pathway represents a complex yet elegant system, mapping the external visual world onto the cortical surface via a series of specialized structures. This organization allows both rapid reflexive responses and detailed conscious visual perception.
