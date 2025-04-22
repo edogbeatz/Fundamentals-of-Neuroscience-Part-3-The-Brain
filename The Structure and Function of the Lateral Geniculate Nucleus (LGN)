@@ -5,13 +5,13 @@
 
 ---
 
-## 📍 Location and General Overview
+## Location and General Overview
 
 The **Lateral Geniculate Nucleus (LGN)** is located in the **dorsal lateral region of the thalamus**, between the **cerebral cortex** and the **midbrain**. While its full role is still being studied, the LGN plays a critical part in the early stages of visual processing.
 
 ---
 
-## 🧠 Hemispheric Processing
+## Hemispheric Processing
 
 - **Left LGN**: Processes input from the **right visual field**  
 - **Right LGN**: Processes input from the **left visual field**
@@ -20,7 +20,7 @@ This contralateral mapping ensures each hemisphere processes data from the oppos
 
 ---
 
-## 🔍 Layered Organization
+##  Layered Organization
 
 The LGN is made up of **six distinct layers**:
 - **Layers 1–2**: **Magnocellular (M-type)** — large neurons; process **motion**
@@ -31,7 +31,7 @@ This architecture supports **parallel processing** of visual streams.
 
 ---
 
-## 🔄 Functional Pathways
+## Functional Pathways
 
 - **Magnocellular Pathway**  
   - Large center-surround receptive fields  
@@ -46,7 +46,7 @@ This architecture supports **parallel processing** of visual streams.
 
 ---
 
-## 🔁 Cortical Feedback
+## Cortical Feedback
 
 Interestingly, **only ~20%** of excitatory input to the LGN comes from the retina.  
 **~80%** comes from **feedback loops from the visual cortex**.
@@ -54,3 +54,26 @@ Interestingly, **only ~20%** of excitatory input to the LGN comes from the retin
 These loops are not fully understood but are believed to contribute to rhythmic brain activity observed in **EEG recordings**.
 
 ---
+
+## References
+
+1. **Neuroanatomy, Nucleus Lateral Geniculate** – StatPearls. (2023). *NCBI Bookshelf*. [Link](https://www.ncbi.nlm.nih.gov/books/NBK541137/)
+
+2. **Lateral Geniculate Nucleus** – Wikipedia Contributors. (2023). *Wikipedia, The Free Encyclopedia*. [Link](https://en.wikipedia.org/wiki/Lateral_geniculate_nucleus)
+
+3. **A Comparison of Koniocellular, Magnocellular and Parvocellular Receptive Field Properties in the Lateral Geniculate Nucleus of the Owl Monkey (Aotus trivirgatus)** – PMC. [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC2278453/)
+
+4. **Cortical Feedback Regulation of Input to Visual Cortex** – PMC. [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC3139080/)
+
+5. **Perception Lecture Notes: LGN and V1** – NYU. [Link](https://www.cns.nyu.edu/~david/courses/perception/lecturenotes/V1/lgn-V1.html)
+
+6. **Koniocellular Cell** – Wikipedia Contributors. (2023). *Wikipedia, The Free Encyclopedia*. [Link](https://en.wikipedia.org/wiki/Koniocellular_cell)
+
+7. **Functional Role of Corticogeniculate Feedback in Vision** – Briggs Lab, University of Rochester. [Link](https://www.urmc.rochester.edu/labs/briggs/projects/functional-role-of-corticogeniculate-feedback-in-v.aspx)
+
+8. **Corticothalamic Feedback Enhances Stimulus Response Precision in Visual Cortex** – PNAS. [Link](https://www.pnas.org/doi/10.1073/pnas.0609318104)
+
+9. **Lateral Geniculate Nucleus (LGN)** – Introduction to Neuroscience, University of Utah. [Link](https://uen.pressbooks.pub/introneuro/chapter/lateral-geniculate-nucleus-lgn/)
+
+10. **Magnocellular and Parvocellular Pathways** – Introduction to Sensation and Perception, University of Regina. [Link](https://opentextbooks.uregina.ca/sensationandperception/chapter/magnocellular-and-parvocellular-pathways/)
+
