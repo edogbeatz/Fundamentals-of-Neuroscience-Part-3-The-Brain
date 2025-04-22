@@ -46,4 +46,30 @@ Photoreceptors are the biological equivalent of camera pixels and fall into two 
 Phototransduction is the process by which photoreceptors convert light into electrical signals. This involves:
 
 - Photon absorption by **rhodopsin** in rod outer segments  
-- A conformational change in **retinal** (
+- A conformational change in **retinal** (11-cis to all-trans)  
+- Activation of the G-protein **transducin**  
+- Activation of **phosphodiesterase (PDE)**, leading to a decrease in cyclic GMP (cGMP) levels  
+- Closure of cGMP-gated ion channels, resulting in hyperpolarization of the photoreceptor cell  
+- Reduction in glutamate release at the synapse
+
+> This cascade allows for significant signal amplification, enabling the detection of single photons.
+
+---
+
+## References
+
+1. Purves D, Augustine GJ, Fitzpatrick D, et al. *Neuroscience*. 2nd edition. Sunderland (MA): Sinauer Associates; 2001. Chapter 11, Phototransduction. Available from: https://www.ncbi.nlm.nih.gov/books/NBK10806/
+
+2. Kolb H. Simple Anatomy of the Retina. *Webvision: The Organization of the Retina and Visual System*. University of Utah Health Sciences Center. Available from: https://webvision.med.utah.edu/book/part-i-foundations/simple-anatomy-of-the-retina/
+
+3. Kolb H. Photoreceptors. *Webvision: The Organization of the Retina and Visual System*. University of Utah Health Sciences Center. Available from: https://webvision.med.utah.edu/book/part-ii-anatomy-and-physiology-of-the-retina/photoreceptors/
+
+4. Kenhub. Photoreceptors: Rods and Cones. Available from: https://www.kenhub.com/en/library/physiology/photoreceptors
+
+5. StatPearls. Neuroanatomy, Retina. Available from: https://www.ncbi.nlm.nih.gov/books/NBK545310/
+
+6. OpenStax. Visual Processing Begins in Bipolar, Horizontal, Amacrine and Ganglion Cells. *Introduction to Behavioral Neuroscience*. Available from: https://openstax.org/books/introduction-behavioral-neuroscience/pages/6-3-visual-processing-begins-in-bipolar-horizontal-amacrine-and-ganglion-cells
+
+7. Wikipedia contributors. Visual phototransduction. *Wikipedia, The Free Encyclopedia*. Available from: https://en.wikipedia.org/wiki/Visual_phototransduction
+
+8. Wikipedia contributors. Retina. *Wikipedia, The Free Encyclopedia*. Available from: https://en.wikipedia.org/wiki/Retina
