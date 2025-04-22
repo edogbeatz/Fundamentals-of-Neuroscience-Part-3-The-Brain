@@ -1,0 +1,76 @@
+# Functional Architecture of the Primary Visual Cortex
+
+**Edgar Mkrtchyan**
+
+---
+
+## Abstract
+
+The primary visual cortex (V1), also known as the striate cortex, is the first cortical region to receive and process visual input from the lateral geniculate nucleus (LGN). This paper outlines the anatomical structure, laminar organization, and functional specialization of V1, with emphasis on retinotopic mapping, layer-specific inputs, and ocular dominance columns.
+
+---
+
+## 1. Introduction
+
+Visual information processed by the retina is relayed via the optic nerve to the LGN, and subsequently transmitted to the cortex through optic radiations. The visual cortex, particularly V1, plays a crucial role in early-stage visual perception and feature extraction.
+
+---
+
+## 2. Cortical Structure
+
+The cortex is a laminar, two-dimensional sheet approximately two millimeters thick. It consists of six histologically distinct layers. The V1 region is located in the occipital lobe and is situated along the calcarine sulcus. The striate cortex derives its name from the stria of Gennari, a prominent band in layer 4 visible in anatomical sections.
+
+---
+
+## 3. Retinotopic Mapping
+
+Inputs from the LGN innervate the cortical sheet in an orderly, topographic fashion that preserves the spatial (x, y) arrangement of the retina. This organization is referred to as *retinotopy*, a key feature of V1.
+
+---
+
+## 4. Laminar Input Organization
+
+- **Layer 4** receives dense input from magnocellular and parvocellular neurons via spiny stellate cells.
+- **Layers 2 and 3** are primarily innervated by koniocellular axons.
+- These inputs are highly segregated by eye of origin and contribute to binocular disparity processing.
+
+---
+
+## 5. Ocular Dominance Columns
+
+Ocular dominance columns (ODCs) are alternating stripes of neurons in V1 that preferentially respond to input from one eye. These columns are visible in layer 4 and extend through other layers. ODCs are critical for binocular vision and have been central to studies of developmental plasticity.
+
+### 5.1 Cortical Plasticity
+
+Classic experiments in monocular deprivation revealed that blocking visual input from one eye during critical developmental periods results in the degradation of corresponding ODCs, demonstrating the plastic nature of the developing cortex.
+
+---
+
+## 6. Conclusion
+
+The primary visual cortex is a finely structured and highly organized region, optimized for parallel and segregated visual processing. Its laminar architecture and retinotopic fidelity make it an essential model system for studying cortical function and plasticity.
+
+---
+
+## References
+
+1. Horton, J. C., & Hocking, D. R. (1996). Intrinsic variability of ocular dominance column periodicity in normal macaque monkeys. *Journal of Neuroscience*, 16(22), 7228–7239. [Link](https://www.jneurosci.org/content/16/22/7228)
+
+2. Hubel, D. H., & Wiesel, T. N. (1977). Functional architecture of macaque monkey visual cortex. *Proceedings of the Royal Society of London. Series B. Biological Sciences*, 198(1130), 1–59. [Link](https://royalsocietypublishing.org/doi/10.1098/rspb.1977.0085)
+
+3. Sincich, L. C., & Horton, J. C. (2005). The circuitry of V1 and V2: Integration of color, form, and motion. *Annual Review of Neuroscience*, 28, 303–326. [Link](https://www.annualreviews.org/doi/10.1146/annurev.neuro.28.061604.135731)
+
+4. Adams, D. L., & Horton, J. C. (2003). A precise retinotopic map of primate striate cortex generated from the representation of angioscotomas. *Journal of Neuroscience*, 23(9), 3771–3789. [Link](https://www.jneurosci.org/content/23/9/3771)
+
+5. De Valois, R. L., & De Valois, K. K. (1990). *Spatial Vision*. Oxford University Press.
+
+6. Shipp, S., & Zeki, S. (1989). The organization of connections between areas V5 and V1 in macaque monkey visual cortex. *European Journal of Neuroscience*, 1(4), 309–332. [Link](https://doi.org/10.1111/j.1460-9568.1989.tb00798.x)
+
+7. Schmid, M. C., Mrowka, S. W., Turchi, J., Saunders, R. C., Wilke, M., Peters, A. J., Ye, F. Q., & Leopold, D. A. (2010). Blindsight depends on the lateral geniculate nucleus. *Nature*, 466(7304), 373–377. [Link](https://www.nature.com/articles/nature09179)
+
+8. Horton, J. C., & Hoyt, W. F. (1991). The representation of the visual field in human striate cortex: A revision of the classic Holmes map. *Archives of Ophthalmology*, 109(6), 816–824. [Link](https://jamanetwork.com/journals/jamaophthalmology/fullarticle/637948)
+
+9. Tootell, R. B., Silverman, M. S., Switkes, E., & De Valois, R. L. (1982). Deoxyglucose analysis of retinotopic organization in primate striate cortex. *Science*, 218(4575), 902–904. [Link](https://science.sciencemag.org/content/218/4575/902)
+
+10. Livingstone, M. S., & Hubel, D. H. (1984). Anatomy and physiology of a color system in the primate visual cortex. *Journal of Neuroscience*, 4(1), 309–356. [Link](https://www.jneurosci.org/content/4/1/309)
+
