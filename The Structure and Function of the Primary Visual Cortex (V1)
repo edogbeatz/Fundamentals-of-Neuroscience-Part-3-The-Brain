@@ -1,0 +1,59 @@
+# The Structure and Function of the Primary Visual Cortex (V1)
+
+**Author:** Edgar Mkrtchyan  
+**Source Summary:** Based on lecture by Dr. David Cox
+
+---
+
+## Abstract
+
+The primary visual cortex (V1) is the first cortical area to receive visual input from the lateral geniculate nucleus (LGN). It plays a crucial role in the initial stages of complex visual processing, maintaining the spatial organization of retinal inputs through retinotopy. This paper reviews the laminar structure of the cortex, input pathways, ocular dominance columns, and the role of V1 in visual system plasticity.
+
+---
+
+## Introduction
+
+The visual cortex, named from the Greek word for "bark," is a folded two-dimensional laminar structure covering the cerebrum. It consists of six distinct layers and supports higher-level processing of sensory inputs. The primary visual cortex (V1) lies within the occipital lobe, specifically in a deep fold called the calcarine sulcus, and is also known as the striate cortex due to the presence of the stria of Gennari.
+
+---
+
+## Cortical Structure
+
+The cortex is approximately two millimeters thick in humans and is composed of layers characterized by unique neuronal types and connectivity patterns. Across different regions of the cortex, the laminar structure remains fundamentally consistent.
+
+Visual information from the LGN reaches V1 in an organized manner:
+- **Layer 4** receives the most substantial input from magnocellular and parvocellular neurons.
+- **Layers 2 and 3** primarily receive input from koniocellular neurons.
+
+This organization ensures the preservation of the retinal spatial (x, y) mapping onto the cortical surface, a phenomenon known as **retinotopy**.
+
+---
+
+## Ocular Dominance Columns (ODCs)
+
+In layer 4, the inputs from the left and right eyes remain segregated into alternating stripes known as ocular dominance columns. These columns:
+- Preferentially respond to input from one eye.
+- Span multiple cortical layers.
+- Are arranged in a characteristic striped pattern across V1.
+
+Research on ODCs has been pivotal in understanding **cortical plasticity**, notably showing that monocular deprivation during critical periods of development leads to degradation of deprived-eye columns while enhancing the input of the non-deprived eye.
+
+---
+
+## Functional Organization
+
+The primary visual cortex is highly organized, with various visual properties such as orientation, spatial frequency, and ocular dominance systematically mapped onto its structure. This fine-tuned organization enables sophisticated processing necessary for visual perception.
+
+---
+
+## Conclusion
+
+The primary visual cortex exemplifies an intricate and highly ordered architecture essential for visual processing. Its structural and functional organization, particularly features like retinotopy and ocular dominance columns, provide critical insights into both normal visual function and neural plasticity.
+
+---
+
+## References
+
+- Cox, D. (n.d.). Lecture on Primary Visual Cortex, MCB80x: Fundamentals of Neuroscience, Harvard University.
+- Hubel, D. H., & Wiesel, T. N. (1962). Receptive fields, binocular interaction and functional architecture in the cat's visual cortex. *Journal of Physiology*, 160(1), 106–154.
+- Mountcastle, V. B. (1997). The columnar organization of the neocortex. *Brain*, 120(4), 701–722.
